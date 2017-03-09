@@ -1,0 +1,14 @@
+@media(min-width: 1119px){
+	.container{
+		width: 1000px;
+	}
+}
+body{
+	font-family: 'Time New Roman';
+	font-size: 15px;
+	padding-top: 100px;
+	background-color: #eee;
+}
+.panel,.alert,.drop-down,.btn{
+	border-radius: 0;
+}
